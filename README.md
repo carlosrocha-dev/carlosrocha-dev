@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Fala aí! 👋
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosrocha-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrocha-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **carlosrocha-dev/carlosrocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
