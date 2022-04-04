@@ -18,7 +18,7 @@
   ##
   
 <div>
-   ![Snake animation](https://github.com/carlosroch-dev/carlosrocha-dev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/carlosrocha-dev/carlosrocha-dev/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **carlosrocha-dev/carlosrocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
