@@ -17,7 +17,7 @@
 </div>
   
   ##
-
+[![Carlos Rocha Github`s stats](https://github-readme-stats.vercel.app/api?username=carlosrocha-dev)](https://github.com/carlosrocha-dev/github-readme-stats)
 <!--
 <div>
  ![Snakeanimation](https://github.com/carlosrocha-dev/carlosrocha-dev/blob/output/github-contribution-grid-snake.svg)
