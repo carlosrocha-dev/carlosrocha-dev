@@ -1,5 +1,5 @@
 ## Fala aí! 👋
-- 👨🏿‍🚀 I'm Cadete in 42 São Paulo
+- 👨🏿‍🚀 I'm Cadent in 42 São Paulo
 - 🔭 I’m currently working on <a href="https://www.sescsp.org.br">Sesc São Paulo</a>
 - 🌱 I’m currently learning C
 
