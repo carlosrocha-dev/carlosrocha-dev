@@ -1,8 +1,10 @@
 
  <div style="align:center">
+ ![TESTE](https://raw.githubusercontent.com/carlosrocha-dev/ilustrando-ideias/master/public/img/avatar-caalberto.png?token=GHSAT0AAAAAABVIKYSEZ3UXG5KFVK6GO5POYU2XXHA)
+ </div>
+  <div style="align:center">
   ## Fala aí! 👋
  </div>
- 
  
 - 👨🏿‍🚀 I'm Cadet in 42 São Paulo
 - 🔭 I’m currently working on <a href="https://www.sescsp.org.br">Sesc São Paulo</a>
