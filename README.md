@@ -1,7 +1,4 @@
 
- <div style="align:center">
- ![TESTE](https://raw.githubusercontent.com/carlosrocha-dev/ilustrando-ideias/master/public/img/avatar-caalberto.png?token=GHSAT0AAAAAABVIKYSEZ3UXG5KFVK6GO5POYU2XXHA)
- </div>
   <div style="align:center">
   ## Fala aí! 👋
  </div>
