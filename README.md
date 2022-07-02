@@ -20,19 +20,10 @@
 
 </div>
 
-<div align="center">  
-  
-### :artificial_satellite: Phase 2 :medal_military: :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
-</div>
+![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)
 
-<div align="center">  
-  
-### :flying_saucer: Phase 3 :medal_military::medal_military::medal_military:
- ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
-</div>
 
 
 ## Stats on github:
