@@ -9,13 +9,20 @@
 🌱 I’m currently learning C
 
 
-## Status 42 projects:
+## :sparkles: Status 42 projects:  :computer:
 ### :rocket: STAGE 1 :medal_military:
  ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
+ 
+  	:lock: Libft  	:lock: Get Next line
+ 
 ### :artificial_satellite: STAGE 2 :medal_military: :medal_military:
  ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+ 
+ 
 ### :flying_saucer: STAGE 3 :medal_military::medal_military::medal_military:
   ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+
+
 
 ## Stats:
  <div style="align:center">
