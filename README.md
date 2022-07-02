@@ -1,8 +1,10 @@
 ![Hello there.](https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif "Hello there.")
 
+<div align="center">
 
   # :space_invader: Hi, there :vulcan_salute:
 
+</div>
  
 👨🏿‍🚀 I'm student of software engeneer in 42 São Paulo
 
