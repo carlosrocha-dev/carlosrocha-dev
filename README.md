@@ -1,3 +1,5 @@
+![Hello there.](https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif "Hello there.")
+
 
   # :space_invader: Hi, there :vulcan_salute:
 
@@ -10,22 +12,31 @@
 
 
 ## :sparkles: Status 42 projects:  :computer:
-### :rocket: STAGE 1 :medal_military:
- ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
- 
-  	:lock: Libft  	:lock: Get Next line
- 
-### :artificial_satellite: STAGE 2 :medal_military: :medal_military:
- ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
- 
- 
-### :flying_saucer: STAGE 3 :medal_military::medal_military::medal_military:
-  ![Stage 1](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+  
+<div align="center">  
+  
+### :rocket: Phase 1 :medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/20/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+</div>
+
+<div align="center">  
+  
+### :artificial_satellite: Phase 2 :medal_military: :medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+</div>
+
+<div align="center">  
+  
+### :flying_saucer: Phase 3 :medal_military::medal_military::medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+</div>
 
 
-
-## Stats:
- <div style="align:center">
+## Stats on github:
+ <div align="center">
   <a href="https://github.com/carlosrocha-dev">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlosrocha-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrocha-dev&layout=compact&langs_count=16&theme=gotham"/>
