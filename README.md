@@ -1,12 +1,12 @@
 <div align="center">
 
-![samuel](https://user-images.githubusercontent.com/3737837/177462820-114f4ae0-69e7-49a4-b292-aa5b6d26aaa6.gif)
+![ben](https://user-images.githubusercontent.com/3737837/177527123-2aa493e2-6d11-42b6-bdb1-734c3f779a9a.gif)
 
 </div>
 
 <div align="center">
 
-  # :space_invader: Hi, there :vulcan_salute:
+  # :space_invader: Hello, there :vulcan_salute:
 
 </div>
  
@@ -41,6 +41,7 @@
 
 ## Stats on github:
  <div align="center">
+
   <a href="https://github.com/carlosrocha-dev">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlosrocha-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrocha-dev&layout=compact&langs_count=16&theme=gotham"/>
