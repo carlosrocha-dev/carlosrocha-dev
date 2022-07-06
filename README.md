@@ -1,4 +1,8 @@
-![Hello there.](https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif "Hello there.")
+<div align="center">
+
+![samuel](https://user-images.githubusercontent.com/3737837/177462820-114f4ae0-69e7-49a4-b292-aa5b6d26aaa6.gif)
+
+</div>
 
 <div align="center">
 
