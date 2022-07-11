@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/stats?cursusId=21&coalitionId=undefined" alt="caalbert's 42 stats" /></a>
+
+</div>
 
 <div align="center">
 
@@ -33,7 +37,9 @@
 
 ![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png) ![get_next_linen](https://user-images.githubusercontent.com/3737837/177004007-ccfd86d9-d470-41eb-8359-1653bc9b8bb2.png) 
 
-#### 🌟 *libft*   [![caalbert's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2606362)](https://github.com/JaeSeoKim/badge42)
+#### 🌟 *libft*
+
+[![caalbert's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2606362)](https://github.com/JaeSeoKim/badge42)
 
 #### 🔓  get_next_line  ➡️  in progress 
 
