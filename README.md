@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/stats?cursusId=21&coalitionId=pscine" alt="caalbert's 42 stats" /></a>
+[![caalbert's 42 stats](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 </div>
 
