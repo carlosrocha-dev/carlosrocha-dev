@@ -28,24 +28,28 @@
 <div align="center">  
   
 ### :rocket: Phase 1 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/20/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+ ![1.05 - 5%](https://progress-bar.dev/45/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 </div>
 
 
 ### My pipeline projects :flight_departure:
 
-![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png) ![get_next_linen](https://user-images.githubusercontent.com/3737837/177004007-ccfd86d9-d470-41eb-8359-1653bc9b8bb2.png) 
+![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfn](https://user-images.githubusercontent.com/3737837/180447910-4705ef4b-3ed7-4c27-bb8c-a8cbea710c87.png)
+
+
 
 #### 🌟 *libft*
 
 [![caalbert's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2606362)](https://github.com/JaeSeoKim/badge42)
 
-#### 🔓  get_next_line  ➡️  in progress 
+#### 🌟  *get_next_line*
 
+[![caalbert's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2661932)](https://github.com/JaeSeoKim/badge42)
 
+#### 🔓  ft_printf  ➡️  in progress 
 
-
+[![caalbert's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2682633)](https://github.com/JaeSeoKim/badge42)
 
 ## Stats on github:
  <div align="center">
