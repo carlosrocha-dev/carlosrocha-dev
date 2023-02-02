@@ -28,36 +28,14 @@
 <div align="center">  
   
 ### :rocket: Phase 1 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/65/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+ ![1.05 - 5%](https://progress-bar.dev/90/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 </div>
 
 
 ### My pipeline projects :flight_departure:
 
-[![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfn](https://user-images.githubusercontent.com/3737837/190662321-0136ec21-68da-4a8c-b2c6-253b8fcbcf6b.png)
-
-
-#### 🌟 *libft*
-
-[![caalbert's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2606362)](https://github.com/JaeSeoKim/badge42)
-
-#### 🌟  *get_next_line*
-
-[![caalbert's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2661932)](https://github.com/JaeSeoKim/badge42)
-
-#### :star:  ft_printf
-
-[![caalbert's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2682633)](https://github.com/JaeSeoKim/badge42)
-
-
-#### 🌟  borntoberoot 
-
-[![caalbert's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2739014)](https://github.com/JaeSeoKim/badge42)
-
-#### 🛰️  FdF  ➡️  in progress 
-
-[![caalbert's 42 FdF Score](https://badge42.vercel.app/api/v2/cl5g4kxwa002509l0nrey4oz0/project/2789350)](https://github.com/JaeSeoKim/badge42)
+[![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfm](https://user-images.githubusercontent.com/3737837/216211380-33d04ead-4e72-4256-86bb-51b822144c41.png) ![minitalkn](https://user-images.githubusercontent.com/3737837/216211562-3da3ce0b-6c0a-4018-a1cf-89a1292789a7.png)
 
 
 ## Stats on github:
