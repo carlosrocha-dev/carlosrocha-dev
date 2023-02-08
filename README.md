@@ -21,16 +21,29 @@
   
 <div align="center">  
   
-### :rocket: Phase 1 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/90/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+![phase_onee](https://user-images.githubusercontent.com/3737837/217397949-89924f37-bb45-4df5-98c6-2c7fad80c731.png)
 
-</div>
+### :rocket: Phase 1 :medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/100/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 
 ### My pipeline projects :flight_departure:
 
-[![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfm](https://user-images.githubusercontent.com/3737837/216211380-33d04ead-4e72-4256-86bb-51b822144c41.png) ![minitalkn](https://user-images.githubusercontent.com/3737837/216211562-3da3ce0b-6c0a-4018-a1cf-89a1292789a7.png)
+[![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfm](https://user-images.githubusercontent.com/3737837/216211380-33d04ead-4e72-4256-86bb-51b822144c41.png) ![minitalkm](https://user-images.githubusercontent.com/3737837/217397755-2ba4e8a9-1e44-4b35-852e-40131ba9c93b.png)
 
+</div>
+
+<div align="center">  
+
+### :rocket: Phase 2 :medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+
+### My pipeline projects :flight_departure:
+
+![push_swapn](https://user-images.githubusercontent.com/3737837/217398520-237d091c-edb2-4a27-9789-83f5c79db7c0.png)
+
+</div>
 
 ## Stats on github:
  <div align="center">
