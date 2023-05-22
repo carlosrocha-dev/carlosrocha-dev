@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on <a href="https://www.sescsp.org.br">Sesc São Paulo</a>
 
-🌱 I’m currently learning C, C++, Java, Angular, Phython
+🌱 I’m currently learning C, C++, Java, Angular, Python
 
 
 ## :sparkles: Status 42 projects:  :computer:
