@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on <a href="https://www.sescsp.org.br">Sesc São Paulo</a>
 
-🌱 I’m currently learning C
+🌱 I’m currently learning C, C++, Java, Angular, Phython
 
 
 ## :sparkles: Status 42 projects:  :computer:
@@ -33,12 +33,13 @@
 <div align="center">  
 
 ### :rocket: Phase 2 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+ ![1.05 - 5%](https://progress-bar.dev/20/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
-
+![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd)
+  
 ### My pipeline projects :flight_departure:
 
-![push_swapn](https://user-images.githubusercontent.com/3737837/217398520-237d091c-edb2-4a27-9789-83f5c79db7c0.png)
+![minishelln](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/f9c65ba8-0f8f-4a48-8511-23df81365079)
 
 </div>
 
