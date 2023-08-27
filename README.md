@@ -16,6 +16,9 @@
 
 🌱 I’m currently learning C, C++, Java, Angular, Python
 
+![](https://komarev.com/ghpvc/?username=carlosrocha-dev&color=blue&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrocha-resume/)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/caalbert)
 
 ## :sparkles: Status 42 projects:  :computer:
   
