@@ -36,13 +36,14 @@
 <div align="center">  
 
 ### :rocket: Phase 2 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/40/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+ ![1.05 - 5%](https://progress-bar.dev/60/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
-![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30)
+![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc)
+
 
 ### My pipeline projects :flight_departure:
 
-![philosophersn](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/3ee5f92c-d66d-4e54-b8e8-cadcf3babb24)
+![netpracticen](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/21260029-d7e0-45f9-a36d-d29d51841710)
 
 
 </div>
