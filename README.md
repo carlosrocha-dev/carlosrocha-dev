@@ -36,14 +36,16 @@
 <div align="center">  
 
 ### :rocket: Phase 2 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/60/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+ ![1.05 - 5%](https://progress-bar.dev/80/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
-![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc)
+![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc) ![netpracticee](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/ba01f34e-a1a3-4902-a08f-b3a69ec5f411)
+
 
 
 ### My pipeline projects :flight_departure:
 
-![netpracticen](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/21260029-d7e0-45f9-a36d-d29d51841710)
+![minirtn](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/1f1ee312-8e77-4394-9167-3bb2768e63c5)
+
 
 
 </div>
