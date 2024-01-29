@@ -23,10 +23,12 @@
 ## :sparkles: Status 42 projects:  :computer:
   
 <div align="center">  
+
+### :rocket: Phase 1 :medal_military:
   
 ![phase_onee](https://user-images.githubusercontent.com/3737837/217397949-89924f37-bb45-4df5-98c6-2c7fad80c731.png)
 
-### :rocket: Phase 1 :medal_military:
+
  ![1.05 - 5%](https://progress-bar.dev/100/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 [![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfm](https://user-images.githubusercontent.com/3737837/216211380-33d04ead-4e72-4256-86bb-51b822144c41.png) ![minitalkm](https://user-images.githubusercontent.com/3737837/217397755-2ba4e8a9-1e44-4b35-852e-40131ba9c93b.png)
@@ -36,15 +38,27 @@
 <div align="center">  
 
 ### :rocket: Phase 2 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/80/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+  
+![phase_twoe](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/4ea7ef5b-a2b1-4478-a014-2d86c6e78fa0)
 
-![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc) ![netpracticee](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/ba01f34e-a1a3-4902-a08f-b3a69ec5f411)
 
+ ![1.05 - 5%](https://progress-bar.dev/100/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc) ![netpracticee](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/ba01f34e-a1a3-4902-a08f-b3a69ec5f411) ![minirtm](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/95a78306-6092-494f-8e7e-9c67a5ac46a8)
+
+
+
+</div>
+
+<div align="center">  
+
+### :rocket: Phase 3 :medal_military:
+ ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
 
 
 ### My pipeline projects :flight_departure:
 
-![minirtn](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/1f1ee312-8e77-4394-9167-3bb2768e63c5)
+![cppn](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/7e85d52f-78b5-4b92-8501-293671c6f97f)
 
 
 
