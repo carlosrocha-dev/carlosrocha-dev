@@ -53,14 +53,18 @@
 <div align="center">  
 
 ### :rocket: Phase 3 :medal_military:
- ![1.05 - 5%](https://progress-bar.dev/0/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+![image](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/e942675c-2ea7-4a84-a91c-4cf61ce61bc6)
+
+
+ ![1.5 - 5%](https://progress-bar.dev/50/?scale=100&title=level&width=500&color=8AB58&suffix=%)
+
+![cppe](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/dfdb73a7-be6c-4fac-9941-1c65481c6070) ![inceptionm](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/15e86c05-f7b5-4e8e-a18d-cb56a1717897)
 
 
 ### My pipeline projects :flight_departure:
 
-![cppn](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/7e85d52f-78b5-4b92-8501-293671c6f97f)
-
-
+![image](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/2247b0a5-2bc4-44fa-86b2-a9f97dae120b)
 
 </div>
 
@@ -78,7 +82,10 @@
  
 <div style="display: inline_block; align: center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
