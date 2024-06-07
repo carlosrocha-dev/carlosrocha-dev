@@ -72,9 +72,10 @@
 ## Stats on github:
  <div align="center">
 
-  <a href="https://github.com/carlosrocha-dev">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlosrocha-dev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrocha-dev&layout=compact&langs_count=16&theme=gotham"/>
+   ![carlosrocha-dev's Stats](https://github-readme-stats.vercel.app/api?username=carlosrocha-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+   ![carlosrocha-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosrocha-dev&theme=vue-dark&hide_border=true)
+   ![carlosrocha-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrocha-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
  
   
