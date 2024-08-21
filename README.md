@@ -24,11 +24,14 @@
   
 <div align="center">  
 
-###  :medal_military: :medal_military: :medal_military:Commum Core Stages :medal_military: :medal_military: :medal_military:
+![common_coree](https://github.com/user-attachments/assets/19f0e2b1-a558-4499-9919-8540803e85cf)
+
+
+###  :medal_military: :medal_military: :medal_military: Commum Core Stages :medal_military: :medal_military: :medal_military:
   
 ![phase_onee](https://user-images.githubusercontent.com/3737837/217397949-89924f37-bb45-4df5-98c6-2c7fad80c731.png) ![phase_twoe](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/4ea7ef5b-a2b1-4478-a014-2d86c6e78fa0) ![image](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/e942675c-2ea7-4a84-a91c-4cf61ce61bc6)
 
-###  :medal_military: :medal_military: :medal_military:Projects :medal_military: :medal_military: :medal_military:
+###  :medal_military: :medal_military: :medal_military: Projects :medal_military: :medal_military: :medal_military:
 
 [![libftm](https://user-images.githubusercontent.com/3737837/177003824-ab3d7ff3-ba64-45ef-acb3-43a155fd105d.png)](https://github.com/carlosrocha-dev/libft) ![get_next_linem](https://user-images.githubusercontent.com/3737837/180447698-b1f15be8-8051-48e1-b0f3-8875c89b2cc6.png) ![ft_printfe](https://user-images.githubusercontent.com/3737837/190656132-16a316aa-12e4-4197-a669-70a542c443ea.png) ![born2berootm](https://user-images.githubusercontent.com/3737837/190655858-e855235c-ac72-4504-859c-45ff0d0bc003.png) ![fdfm](https://user-images.githubusercontent.com/3737837/216211380-33d04ead-4e72-4256-86bb-51b822144c41.png) ![minitalkm](https://user-images.githubusercontent.com/3737837/217397755-2ba4e8a9-1e44-4b35-852e-40131ba9c93b.png)
 
@@ -36,7 +39,7 @@
 ![image](https://github.com/carlosrocha-dev/42_push_swap/assets/3737837/0a006021-b54b-48cb-b1d1-a59ee0435dfd) ![minishelle](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/428c7204-3b20-4f6e-83e9-b4729e74dd30) ![philosopherse](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/d0700632-e0aa-4369-a40a-de1fb24c56cc) ![netpracticee](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/ba01f34e-a1a3-4902-a08f-b3a69ec5f411) ![minirtm](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/95a78306-6092-494f-8e7e-9c67a5ac46a8)
 
 
-![cppe](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/dfdb73a7-be6c-4fac-9941-1c65481c6070) ![inceptionm](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/15e86c05-f7b5-4e8e-a18d-cb56a1717897) ![image](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/2f589cf9-e0a1-4158-b010-1104c970ed15) ![ft_transcendencen](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/29622049-383e-49f7-804b-ef454f083274)
+![cppe](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/dfdb73a7-be6c-4fac-9941-1c65481c6070) ![inceptionm](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/15e86c05-f7b5-4e8e-a18d-cb56a1717897) ![image](https://github.com/carlosrocha-dev/carlosrocha-dev/assets/3737837/2f589cf9-e0a1-4158-b010-1104c970ed15) ![ft_transcendencem](https://github.com/user-attachments/assets/18ed0c38-dae8-4417-8e2a-4242d1376a8d)
 
 
 </div>
