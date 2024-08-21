@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on <a href="https://www.sescsp.org.br">Sesc São Paulo</a>
 
-🌱 I’m currently learning C, C++, Java, Angular, Python
+🌱 I’m currently learning C, C++, Java, Angular, Python, Swift, Unreal Engine 5
 
 ![](https://komarev.com/ghpvc/?username=carlosrocha-dev&color=blue&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rocha-tech/)
